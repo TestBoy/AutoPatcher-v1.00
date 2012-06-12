@@ -2,7 +2,7 @@ AutoPatcher by TestBoy v1.00
 =================
 
 Jako 1. si vytvoříme na FTP složku "\client" do které nakopírujete obsah složky (bez patcher.cfg)...
-2. Následněsi k té složce vložíme soubor "patchlist_creator.php"
+2. Následněsi k té složce vložíme soubor "patchlist_creator.php" a "patchlist.xml"
 3. Do složky s clientem si přidáme soubor Patcher.exe, update.bin a patcher.cfg
 4. V souboru patcher.cfg upravíme "patch_url" na vaší url, př. : http://client.wild-way.eu/ 
 ---POZOR !! ---
